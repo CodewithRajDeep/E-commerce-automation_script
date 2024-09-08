@@ -14,4 +14,4 @@
  8. Add the phone to the cart
  9. Click on the Go to cart button
 10. Record the automation script using any screen recording software
-11.Share the drive link for the recording . Save screenshots and logs for all the steps
+
